@@ -15,8 +15,8 @@ Aplikasi SiRaJa merupakan aplikasi berbasis mobile yang berjalan disistem oprasi
 Aplikasi ini dipakai disemua kalangan tetapi dikhususkan untuk pelajar SD dan SMP.
 
 
-##Panduan Instalasi
-
+##Url Download Aplikasi
+<a href="http://www.mediafire.com/?91bk4wcrad311st">Download</a>
 
 #Contact Person
 
